@@ -1,0 +1,71 @@
+ACTION CASTLE — winning path
+take pole
+go out
+go south
+catch fish
+go north
+pick rose
+smell rose
+go north
+go up
+grab branch
+go down
+go east
+give fish
+go east
+hit guard with branch
+go east
+get key
+get candle
+go west
+down
+get lamp
+light lamp
+down
+light candle
+read runes
+get crown
+up
+up
+up
+unlock door
+up
+propose
+wear crown
+down
+down
+east
+east
+sit
+
+MY GAME (Gas Station Heist) — winning path
+take keycard
+go east
+take chips
+use keycard
+go west
+go south
+take crowbar
+give chips
+go north
+go east
+go north
+disarm alarm
+grab cash
+go south
+go west
+go south
+go east
+drive
+
+MY GAME — losing example (alarm trips, you get busted)
+take keycard
+go east
+use keycard
+go north
+open safe
+go south
+go west
+go south
+go east
+drive
